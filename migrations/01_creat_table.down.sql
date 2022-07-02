@@ -1,0 +1,3 @@
+CREATE TABLE IF NOT EXISTS company(
+    id SERIAL PRIMARY KEY
+);
